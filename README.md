@@ -1,4 +1,3 @@
-# Sales-Report-PowerBI
 
 # Sales Dashboard with Power BI
 
